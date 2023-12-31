@@ -1,10 +1,19 @@
 <?php
 /*
-Plugin Name: Firecracker Display
-Description: Display firecrackers on the entire site after activation.
 Version: 1.0
 Author: Wasif Khan
 */
+
+/**
+ * Plugin Name: Firecracker Display
+ * Plugin URI: https://github.com/Wasif-kn/WP-Fire-Crackers
+ * Description: Display firecrackers on the entire site after activation.
+ * Version: 1.0.0
+ * Author: Wasif Khan
+ * Author URI: https://github.com/Wasif-kn
+ * License: GPL-2.0+
+ * Domain Path: /languages
+ */
 
 // Enqueue necessary scripts and styles
 function firecracker_enqueue_scripts()
