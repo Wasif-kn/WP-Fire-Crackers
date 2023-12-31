@@ -1,0 +1,52 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html {
+    height: 100%;
+    background: linear-gradient(
+      to bottom,
+      #071b26 0%,
+      #071b26 50%,
+      #8a3b12 90%,
+      #240e03 100%
+    );
+  }
+  
+  .container {
+    height: 100dvh;
+    width: 100dvw;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+  }
+  
+  .btn {
+    padding: 5px 10px;
+    background: transparent;
+    color: white;
+    border: 1px solid white;
+    width: max-content;
+    margin-bottom: 40px;
+    z-index: 100;
+    cursor: pointer;
+  }
+  
+  .btns {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    gap: 5px;
+  }
+  
+  .fire-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+  }
+  .fire-count {
+    width: 50px;
+  }
+   */
